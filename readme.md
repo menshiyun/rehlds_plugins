@@ -25,4 +25,4 @@ Unmodified ReHLDS and related plugins
 
 ### 2020-01-07
 
-Init Repository
+- Init Repository
