@@ -14,12 +14,12 @@ Unmodified ReHLDS and related plugins
 ## linux32
 - amxmodx-1.9.0-git5271-base-linux.tar.gz
 - amxmodx-1.9.0-git5271-cstrike-linux.tar.gz
-- yapb-4.2.598-linux.tar.gz
+- yapb-4.2.598-linux.tar.xz
 
 ## win32
 - amxmodx-1.9.0-git5271-base-windows.zip
 - amxmodx-1.9.0-git5271-cstrike-windows.zip
-- yapb-4.2.598-windows.tar.gz
+- yapb-4.2.598-windows.zip
 
 ## Changelog
 
