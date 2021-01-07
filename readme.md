@@ -21,7 +21,8 @@ ReHLDS and related plugins
 - amxmodx-1.9.0-git5271-cstrike-windows.zip
 - yapb-4.2.598-windows.tar.gz
 
-# Changlog
+## Changlog
 
-- 2020-01-07
+### 2020-01-07
+
     Init Repository
