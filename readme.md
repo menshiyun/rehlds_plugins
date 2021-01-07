@@ -1,6 +1,8 @@
 
 # rehlds_plugins
 
+ReHLDS and related plugins
+
 ## common
 - rehlds-dist-3.8.0.702-dev.zip
 - regamedll-dist-5.20.0.492-dev.zip
