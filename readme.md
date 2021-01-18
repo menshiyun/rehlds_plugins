@@ -8,7 +8,7 @@ Unmodified ReHLDS and related plugins
 - rehlds-dist-3.8.0.702-dev.zip
 - regamedll-dist-5.20.0.492-dev.zip
 - metamod_1.3.0.128.zip
-- reunion_0.1.0.92c.zip
+- reunion_0.1.0.92d.zip
 - revoice_0.1.0.34.zip
 - reapi_5.19.0.210-dev.zip
 
@@ -26,6 +26,10 @@ Unmodified ReHLDS and related plugins
 
 ## Changelog
 
-### 2020-01-07
+### 2021-01-18
+
+- reunion: 0.1.0.92c -> 0.1.0.92d
+
+### 2021-01-07
 
 - Init Repository
